@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+
+    <string name="open_weather_maps_app_id">BuildConfig.APPLICATION_ID</string>
+    <string name="change_city">Change city</string>
+    <string name="refresh">Refresh</string>
+    <string name="about">About</string>
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+
+    <string name="drawer_open">Open Saved Cities</string>
+    <string name="drawer_close">Close Saved Cites</string>
+    <string name="place_not_found">Sorry, no weather data found.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
